@@ -1,4 +1,4 @@
-# The Air Dirt Demo
+# Xmas Card 97
 
 Full assembler source for the "Xmas Car 97" demo by The Senior Dads, which was released on the Atari Falcon 030 on the 24th December 1997.
 
@@ -17,7 +17,7 @@ Full assembler source for the "Xmas Car 97" demo by The Senior Dads, which was r
 * Run "XMAS97.PRG".
 
 ## Folders
-* `XMAS97.SED` - Original compiled demo and accompanying [README](https://github.com/theseniordads/airdirtdemo/blob/main/AIR_DIRT.SED/AIR_DIRT.TXT).
+* `XMAS97.SED` - Original compiled demo and accompanying [README](https://github.com/theseniordads/xmascard97/blob/main/XMAS97.SED/r3Adm3.tXt).
 * `GRAPHICS` - Graphics, in Degas Elite PI1 files and raw 16-bit 320x200 true colour images. There's also `.FNT` 1 plane graphics using De Janeiro of The Avenger's Map Editor, and various `.ASA` files which contain screen configuration data.
 * `INCLUDES` - Various macro and helpers code. Also includes `VSCROLL.S`, which contains the text for the credits at the end of the demo.
 * `SOUND` - Sound and assoicated handling routines. `.MOP` files are modules packed using Delta Force's module packer, and depacked using `NMDEPACK.S`. All other files are concerned with the module replay routines.
